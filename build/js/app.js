@@ -146,8 +146,8 @@ function ord_pokemones(){
 }
 
 // Obtener pokemones cada 30s
-// function autoGetPokemon(){
+function autoGetPokemon(){
 //     setInterval(()=>{
 //         loadListPokemon()
 //     }, 30000)
-// }
+}
